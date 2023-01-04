@@ -4,7 +4,7 @@ document.getElementById("submitButton").addEventListener("submit", function(even
 });
 
 function sendMail(contactForm) {
-    emailjs.send("service_44tf1cv", "brewright", {
+    emailjs.send("service_uwdjpz7", "rosyCuisine", {
             "from_name": contactForm.name.value,
             "from_email": contactForm.emailaddress.value,
             "order_request": contactForm.coffeerequest.value
