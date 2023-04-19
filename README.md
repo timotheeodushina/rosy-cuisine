@@ -6,6 +6,7 @@ The website consists of:
 * Order Page: Providing online ordering method and three different branches locations.
 * Contact Page: Details of the coffee shop and input from the users for their email address, name, and a text box for their inquiries.
 * Cart Page: Showing the item that the user has selected, where they can add or reduce the ordered quantity.
+* Just a test
 
 ## **User Experience (UX)**
 
